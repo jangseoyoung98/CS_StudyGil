@@ -28,9 +28,10 @@
 
 ## 자료구조
 
+- [그래프](./Data_Structure/Graph.md)
 - [Array & Dynamic_Array](./Data_Structure/Array.md)
 - [LinkedList](./Data_Structure/LinkedList.md)
 - [스택 & 큐](./Data_Structure/Stack_Queue.md)
-- [힙]
-
+- [힙과 우선큐](./Data_Structure/Heap%26Priority_Queue.md)
+- [이진탐색트리](./Data_Structure/BST.md)
 
