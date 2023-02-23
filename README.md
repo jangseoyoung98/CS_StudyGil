@@ -1,4 +1,5 @@
 # CS Study 📕
+
 ## 😀​ 스터디원
 
 |User|주력언어|
@@ -8,11 +9,13 @@
 
 ## 💻​ 학습방법
 
-0. 해당 깃을 포크한다.
-1. 브런치를 딴다음
-2. 작성된 문서에 자료구조를 본인이 잘 쓰는 언어로 구현해본다.
-3. 작성된 문서에 본인이 구현한 언어를 마크다운으로 링크로 연결한다.
-4. Pull_Request를 요청한다.
+[Week과제](https://github.com/rud1676/CS_StudyGil/wiki)
+
+1. 해당 깃을 포크한다.
+2. 브런치를 딴다음
+3. 작성된 문서에 자료구조를 본인이 잘 쓰는 언어로 구현해본다.
+4. 작성된 문서에 본인이 구현한 언어를 마크다운으로 링크로 연결한다.
+5. Pull_Request를 요청한다.
 
 [Pull_Request 하는법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
