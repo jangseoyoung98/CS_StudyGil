@@ -3,7 +3,7 @@
 **`인접한 두 원소를 비교해서 정렬하는 알고리즘`**
 
 - [C++](./code/Bubble.cpp)
-- [JavaScript]
+- [JavaScript](./code/JS/jkw.js)
 - [Python]
 
 ## 아이디어
@@ -29,8 +29,10 @@
 - 다른 메모리를 필요하지 않음.
 
 ## 단점
+
 - 교환과정(SWAP)이 많이 일어난다
 - 오래 걸린다.
 
 ## 참고자료
+
 - https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html
