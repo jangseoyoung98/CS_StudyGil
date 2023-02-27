@@ -5,7 +5,7 @@
 |User|주력언어|
 |--|--|
 |[@jangseoyoung98](https://github.com/jangseoyoung98)|![Python](https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=python&logoColor=white)|
-|[@janggueonwoo](https://github.com/jangseoyoung98)|![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)|
+|[@janggueonwoo](https://github.com/janggueonwoo)|![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)|
 
 ## 💻​ 학습방법
 
@@ -38,3 +38,6 @@
 - [힙과 우선큐](./Data_Structure/Heap%26Priority_Queue.md)
 - [이진탐색트리](./Data_Structure/BST.md)
 
+## 컴퓨터구조
+- [CPU&컴퓨터구조](./Computer_Architecture/Arichecture%26CPU.md)
+- [메모리관리](./Computer_Architecture/MemoryHierachy.md)
