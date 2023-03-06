@@ -37,6 +37,7 @@
 - [스택 & 큐](./Data_Structure/Stack_Queue.md)
 - [힙과 우선큐](./Data_Structure/Heap%26Priority_Queue.md)
 - [이진탐색트리](./Data_Structure/BST.md)
+- [AVL](./Data_Structure/AVL.md)
 
 ## 컴퓨터구조
 - [CPU&컴퓨터구조](./Computer_Architecture/Arichecture%26CPU.md)
