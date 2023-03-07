@@ -6,7 +6,7 @@
 
 - [C++](./code/C++/BST.cpp)
 - [Javascript++](./code/C++/)
-- [Python](./code/C++/)
+- [Python](./code/Python/BST(temp).cpp)
 ---
 
 ## 이진탐색트리 구현

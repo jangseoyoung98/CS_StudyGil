@@ -4,7 +4,7 @@
 
 - [C++](./code/Insertion.cpp)
 - [JavaScript]
-- [Python](./code/Python/temp.py)
+- [Python]
 
 ## 아이디어
 

@@ -2,7 +2,7 @@
 
 - [C++](./code/C++/LinkedList.cpp)
 - Javascript
-- Pyhton
+- [Pyhton](./code/Python/LinkedList.py)
 
 ## 링크드리스트
 
@@ -59,7 +59,7 @@ InsertFirst 함수의 프로세스
 
 1. 헤드값을 가져오고 순서만큼 while문을 반복한다.
 
-## 배열의 장점
+## 링크드리스트의 장점
 
 - 포인터를 통하기 때문에 삽입, 삭제가 편하다
 - 동적이므로 크기가 정해져 있지 않다.
