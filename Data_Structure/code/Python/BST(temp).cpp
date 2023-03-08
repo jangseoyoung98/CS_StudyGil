@@ -156,9 +156,31 @@ void BST::deleteNode(int data){
     (this->cnt)--;
 };
 
-// ▼ 아래는 이후에..!
 // 전위 순회 (루트노드 - 왼쪽 - 오른쪽)
 void BST::travelBST(){
+    // step3 : 오른쪽으로 이동하기 위한 함수
+
+    // 루트를 가지로 travelBSTNode() 호출한다. -> 왼쪽 NULL이 나올 때까지 왼쪽 다 돈다.
+    // 해당 루트의 오른쪽으로 이동한다.
+    // 그 오른쪽에서 다시 (루트를 찍고) 루트가 되어서 travelBSTNode()를 호출한다.
+    // -> 오르쪽이 NULL이 나올 때까지
+
+    Node* temp = root;
+    
+    travelBSTNode(temp);
+    while(temp->leftchild != NULL){
+        travelBSTNode(temp);
+        temp = temp->leftchild;
+    }
+    travelBSTNode(temp);
+    temp = temp->rightchild;
+    
+
+};
+
+void BST::travelBSTNode(Node* temp){
+    // step 1 : 루트를 출력하고
+    // step 2 : 왼쪽으로 이동하기 위한 함수
     Node* temp = root;
     Node* parent = root;
     // 반복 1 - do while
@@ -183,11 +205,6 @@ void BST::travelBST(){
     cout << (temp->rightchild)->data;
     i++;
     }
-
-
-};
-
-void BST::travelBSTNode(Node* temp){
 
 }
 
